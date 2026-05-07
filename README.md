@@ -10,7 +10,7 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=zhaleff&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=666666&count_private=true&include_all_commits=true&rank_icon=github&hide=issues" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaleff&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=666666&layout=compact&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brimlance&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=666666&layout=compact&langs_count=8" />
 </div>
 
 <div align="center">

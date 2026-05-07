@@ -12,9 +12,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brimlance/Brimlance/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brimlance/Brimlance/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake" width="100%" src="https://raw.githubusercontent.com/Brimlance/Brimlance/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brimlance/perminty/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brimlance/perminty/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake" width="100%" src="https://raw.githubusercontent.com/Brimlance/perminty/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
